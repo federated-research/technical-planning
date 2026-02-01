@@ -1,6 +1,6 @@
 # technical-planning
 
-This an **ISSUES ONLY** repository for the Federated Analytics Technical Team.
+This an **ISSUES ONLY** repository for the Federated Research Teams.
 
 Issues in this repository are used for:
 
